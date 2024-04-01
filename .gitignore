@@ -1,0 +1,10 @@
+./.venv
+
+.idea
+
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+
+# Directory for static files served by Django in production
+/staticfiles/
